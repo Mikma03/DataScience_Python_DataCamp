@@ -7,3 +7,7 @@ Data science and analytics are rapidly shaping every aspect of our lives and our
 We live by a set of core values designed to set us on the best path to achieve our mission of democratizing data skills for everyone.
 
 [More information about DataCamp](https://www.datacamp.com/about)
+
+
+
+[YouTube Channel](https://www.youtube.com/channel/UC79Gv3mYp6zKiSwYemEik9A)
